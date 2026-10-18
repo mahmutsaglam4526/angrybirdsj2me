@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.1
+Created-By: 1.6.0_23-b05 (Sun Microsystems Inc.)
+MIDlet-Name: Angry Birds
+MIDlet-Version: 1.1.0
+MIDlet-Vendor: Rovio
+MIDlet-1: Angry Birds, /i.png, S
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Icon: /i.png
+Nokia-MIDlet-App-Orientation: portrait
+Nokia-MIDlet-On-Screen-Keypad: No
+Nokia-MIDlet-Tap-Detection-Options: 0,0
+more_games_status: off
+more_games_url: localapp://jam/launch?midlet-name=Ovi Store;midlet-ven
+ dor=Nokia;deeplink.type=item;deeplink.uri=http://lr.ovi.mobi/store/angrybirds_trial
+buy_full_version: localapp://jam/launch?midlet-name=Ovi Store;midlet-v
+ endor=Nokia;deeplink.type=item;deeplink.uri=http://lr.ovi.mobi/store/angrybirds_trial
+debug_memory_watch: null
+MIDlet-Permission:
+MIDlet-Permission-Opt:
+
